@@ -5,4 +5,4 @@ The CostTypeClean Notebook was used to clean bad data and remove redundant expen
 
 Subsiquent Notebooks analyzed data, manipulating it and plotting it.
 
-CSV files were not included, however SQL Queries used to generate these are.
+CSV files were not included, however the Snowlfake SQL Queries used to generate these are.
